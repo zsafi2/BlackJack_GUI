@@ -150,5 +150,3 @@ A typical structure might look like:
    ```
 5. Open a **Pull Request** on GitHub.
 
-## License
-This project is licensed under the MIT License (or whichever you prefer). Make sure to include a LICENSE file in the repository to clarify usage terms.
